@@ -1,0 +1,38 @@
+header {
+  background-image: url(Capture.PNG);
+  background-position: center;
+  background-size: cover;
+  color: white;
+
+
+}
+
+button {
+  background: unset;
+  background-color: rgb(38, 120, 236);
+  color: white;
+  border-style: solid;
+  border: black;
+  border-radius: 11px;
+
+
+
+}
+
+footer {
+  background-image: url(https://cf-images.ap-southeast-2.prod.boltdns.net/v1/static/963482464001/fd81aab1-0ac7-4438-bea6-3f78dde6bc30/2d8ba8ae-5a1e-4e45-b098-4f8424ea4f0b/720x404/match/image.jpg);
+  background-position: center;
+  background-size: cover;
+  color: white;
+
+
+
+}
+
+
+nav.rat {
+  background-color: rgb(26, 26, 70);
+  color: white;
+
+
+}
